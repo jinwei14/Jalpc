@@ -1,29 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: Renishaw
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: I worked at Renishaw in Staffordshire, UK. I was in charge of designing implementation of laser beam analysis automation system in C++ Combined Beamgage software and the automation system with GUI which achieved analyse the laser beam automatically, saved time for operation, helped company get the founding. Gained skill of project management and communication.
+            I also worked on the HDF5 File structure which store big row data and images from the machine.
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Jun. 2017
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: Software Engineer Intern
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
+    detail: Annai violet international school
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I worked at Annai violet international school in Chennai, India after my second year computer science course. I Gave lessons about computer science, mathematics, Mandarin for one month. Worked as a lecturer and teaching assistant to help local students know more about computer science
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Nov. 2015
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: Lecturer of Computer Science
     i18n: company_b_job
   icon: fa-plus-square
