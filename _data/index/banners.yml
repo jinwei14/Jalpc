@@ -2,8 +2,17 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/header_one.jpg
+- src: landing/SnowBoarding.jpg
   title: first banner image
 
-- src: landing/header_two.jpg
+- src: landing/Paragliding.jpg
   title: second banner image
+
+- src: landing/pilot.jpg
+  title: third banner image
+
+- src: landing/SkateBoarding.jpg
+  title: fourth banner image
+
+- src: landing/hotAirBloom.jpg
+  title: fifth banner image
