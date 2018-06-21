@@ -1,12 +1,12 @@
-# blog page sections
-- name: To_Do
-  href: /to_do/
+## blog page sections
+#- name: To_Do
+#  href: /to_do/
 
-#  page sections
-- name: WangQi
-  href: /wangqi_todo/
+##  page sections
+#- name: WangQi
+#  href: /wangqi_todo/
 
 
-# blog page sections
-- name: Jinwei
-  href: /jinwei_todo/
+## blog page sections
+#- name: Jinwei
+#  href: /jinwei_todo/

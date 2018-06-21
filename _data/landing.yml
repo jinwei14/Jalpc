@@ -37,9 +37,9 @@
   tpl: links.html
   css: contact
 
-- id: to_do
-  i18n: nav.to_do
-  name: ToDO_List
-  tpl: to_do.html
-  page: to_do/
-  css: testimonials navy-section
+#- id: to_do
+#  i18n: nav.to_do
+#  name: ToDO_List
+#  tpl: to_do.html
+#  page: to_do/
+#  css: testimonials navy-section
