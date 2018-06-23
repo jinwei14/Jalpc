@@ -4,7 +4,7 @@ title:  "My Music Records"
 date:   2018-06-23
 desc: "The Record of my Music"
 keywords: "entertainment,music"
-categories: [LIFE]
+categories: [Life]
 tags: [personalMusic]
 icon: icon-life
 ---
