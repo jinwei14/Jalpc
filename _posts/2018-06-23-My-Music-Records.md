@@ -6,7 +6,7 @@ desc: "The Record of my Music"
 keywords: "entertainment,music"
 categories: [Life]
 tags: [personalMusic]
-icon: icon-life
+icon: icon-music
 ---
 
 I like singing song when I am very bored. I am good at singing romantics songs however, most of them are
