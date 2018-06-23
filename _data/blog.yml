@@ -19,7 +19,7 @@
   href: /life/
 
 - name: Music
-  href: /Music/
+  href: /music/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
