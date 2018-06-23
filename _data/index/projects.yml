@@ -11,7 +11,7 @@
 - name: 2048
   i18n: cpython
   gh_user: jinwei14
-  repo: 2048
+  repo: Jalpc/2048
   img: /static/assets/img/landing/2048.png
   desc: This project is my 2048 game project.
 
