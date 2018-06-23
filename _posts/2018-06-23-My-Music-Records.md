@@ -17,11 +17,11 @@ on the stage someday.
 
 I like singers like:
 
-* **Ed Sheeran
+* Ed Sheeran
 
-* **Jay Chou
+* Jay Chou
 
-* **Eason Chan
+* Eason Chan
 
 Please click this [Link](https://node.kg.qq.com/personal?uid=63999c842428318932) to listen my songs.
 
