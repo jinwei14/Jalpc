@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Some random thoughts"
-date:   2018-06-23
-desc: "Some random thoughts "
-keywords: "entertainment,life"
+title:  "LC238. Product of Array Except Self"
+date:   2018-11-09
+desc: "Given an array nums of n integers where n > 1,  return an array output such that output[i] is equal to the product of all the elements of nums except nums[i]."
+keywords: "Array"
 categories: [Python]
 tags: [Array]
 icon: icon-python
