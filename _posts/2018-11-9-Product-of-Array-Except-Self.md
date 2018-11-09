@@ -16,7 +16,11 @@ class Solution:
         :type nums: List[int]
         :rtype: List[int]
         """
-        
+        sumAll = sum(nums)
+        result = []
+        for i in nums:
+            result.append(sum-i)
+        return result
         
 ```
 
