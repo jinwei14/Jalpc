@@ -53,6 +53,7 @@ class Solution:
 这个解法的精髓就在于，把本位置以及以前的数字成积算出来放在res[]这个list 里，第二遍遍历的时候从后往前用同样的方法，只不过再乘之前算好
 的res 中的数值
 
+
 ---
 
 Feel free to comment on below:
