@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Jalpc
   i18n: jalpc
-  url: https://jinwei14.github.io/Jalpc
+  url: https://github.com/jinwei14/Jalpc
   gh_user: Jinwei
   repo: Jalpc
   img: /static/assets/img/landing/jekyll.png
