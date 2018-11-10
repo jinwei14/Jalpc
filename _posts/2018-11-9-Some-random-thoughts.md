@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Some random thoughts"
-date:   2018-06-23
+date:   2018-11-09
 desc: "Some random thoughts "
 keywords: "entertainment,life"
 categories: [Life]

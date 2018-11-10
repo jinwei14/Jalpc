@@ -17,6 +17,54 @@
   img: /static/assets/img/landing/2048.png
   desc: This project is my 2048 game project.
 
+#- name: D3 data visualisation
+#  i18n: cpython
+#  url: https://jinwei14.github.io/2048/
+#  gh_user: jinwei14
+#  repo: 2048
+#  img: /static/assets/img/landing/2048.png
+#  desc: This project is my 2048 game project.
+#
+#- name: Stock market simulator system
+#  i18n: cpython
+#  url: https://jinwei14.github.io/2048/
+#  gh_user: jinwei14
+#  repo: 2048
+#  img: /static/assets/img/landing/2048.png
+#  desc: This project is my 2048 game project.
+#
+#- name: Top down shooting game
+#  i18n: cpython
+#  url: https://jinwei14.github.io/2048/
+#  gh_user: jinwei14
+#  repo: 2048
+#  img: /static/assets/img/landing/2048.png
+#  desc: This project is my 2048 game project.
+#
+#- name: Artworks on Campus IOS-App
+#  i18n: cpython
+#  url: https://jinwei14.github.io/2048/
+#  gh_user: jinwei14
+#  repo: 2048
+#  img: /static/assets/img/landing/2048.png
+#  desc: This project is my 2048 game project.
+#
+#- name: Questionnaire IOS-App.
+#  i18n: cpython
+#  url: https://jinwei14.github.io/2048/
+#  gh_user: jinwei14
+#  repo: 2048
+#  img: /static/assets/img/landing/2048.png
+#  desc: This project is my 2048 game project.
+#
+#- name: Music Player for MacOS
+#  i18n: cpython
+#  url: https://jinwei14.github.io/2048/
+#  gh_user: jinwei14
+#  repo: 2048
+#  img: /static/assets/img/landing/2048.png
+#  desc: This project is my 2048 game project.
+
 - name: Google
   i18n: google
   url: https://google.com
