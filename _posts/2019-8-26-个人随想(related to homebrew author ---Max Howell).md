@@ -35,7 +35,8 @@ https://leetcode.com/problems/invert-binary-tree/discuss/?currentPage=1&orderBy=
 Max 对此的回复
 https://www.quora.com/Whats-the-logic-behind-Google-rejecting-Max-Howell-the-author-of-Homebrew-for-not-being-able-to-invert-a-binary-tree/answer/Max-Howell?share=100e0bb6&srid=unBJ9
 
-
+我的评论：
+https://leetcode.com/problems/invert-binary-tree/discuss/367479/Here-is-what-I-want-to-say-(related-to-max)
 -------------------------------------------------------------------
 
 小记
